@@ -1,82 +1,74 @@
 # Story Tracker — Markets Brief
 
-Last updated: 2026-06-14 (11:53 BST)
+Last updated: 2026-06-15 (06:30 BST)
 
 ---
 
 ## Active Stories
 
-### ST-001 | US–Iran Nuclear Deal / Strait of Hormuz
-**Status:** CRITICAL — signing expected imminently; not yet confirmed as of 11:53 BST Sunday
-**Summary:** Trump declared June 14 (today, Sunday) as the signing date for a US-Iran peace deal. Tehran's FM said "not today" as of Saturday, but both sides confirmed agreement on a 14-point draft MOU brokered by Pakistani mediators and finalized June 12. Key terms: Iran never pursues nuclear weapons; suspends enrichment; sanctions relief; Hormuz reopens within 30 days of signing. It is a 60-day MOU framework (not a final treaty), so reversibility risk exists. Qatari mediators were in Tehran over the weekend to finalize. Brent down ~20% from 2026 highs in anticipation. Fitch models Hormuz physically reopening end-July. This is the single biggest macro event of 2026.
-**Watch:** Overnight confirmation; Iranian parliament; implementation timeline; Hormuz clearance logistics.
+### ST-001 | US–Iran Deal / Strait of Hormuz
+**Status:** RESOLVING — deal CONFIRMED; downgraded from CRITICAL to ACTIVE-monitoring
+**Summary:** Trump declared the US-Iran agreement "complete" Sunday 14 Jun; ordered the US naval blockade lifted and authorised reopening of the Strait of Hormuz (~20% of global oil/LNG pre-war). Signing slated Fri 19 Jun in Switzerland (Trump electronically or VP Vance in person). Markets cheered: Nikkei +5.5%, Kospi +5.7% Monday; Brent fell ~4-5% to low-$80s; dollar softer. OPEN RISKS: Iran publicly pushing a differing version of terms; nuclear file + hard issues deferred to a 60-day negotiation window (framework/MOU, not final treaty → reversibility risk); physical normalisation "many months" (mine-clearance, vessel backlog) per US Energy Sec Wright; weekend Israeli strikes in Lebanon a wildcard.
+**Watch:** Friday signing actually executing; Iranian parliament/term disputes; Hormuz clearance logistics; oil's physical-vs-paper gap; Israel-Lebanon flare-ups.
 **First flagged:** 2026-06-14
 
 ---
 
-### ST-002 | ECB's First Hike in Three Years — Stagflation Risk
-**Status:** ACTIVE — 25bps hike delivered June 11; next meeting TBC
-**Summary:** ECB raised deposit rate to 2.25% on June 11 — first hike since 2023 — citing Iran-war-driven energy inflation (EZ CPI 3.2% May, core 2.5%). Q1 2026 EZ GDP contracted -0.2%. ECB now forecasts 2026 growth of 0.8%. Lagarde not pre-committing to further hikes. Bund 10yr eased to 3.00% from post-hike peak of 3.05%. If Iran deal kills the energy inflation impulse fast, the June 11 hike may be the last — markets pricing that increasingly. Watch ECB terminal rate repricing.
-**Watch:** Iran deal confirmation; ECB communication post-deal; EZ CPI June data; Bund 10yr reaction.
+### ST-002 | ECB First Hike in Three Years — Stagflation Risk
+**Status:** ACTIVE
+**Summary:** ECB hiked deposit rate to 2.25% on 11 Jun (first since 2023) on Iran-war energy inflation. If the deal kills the energy-inflation impulse fast, the June hike may be the last — watch terminal-rate repricing. Bund 10y ~3.00%.
+**Watch:** Oil-disinflation impulse; ECB communication post-deal; EZ CPI June; Bund 10y.
 **First flagged:** 2026-06-14
 
 ---
 
-### ST-003 | Kevin Warsh Fed / FOMC June 17
-**Status:** ACTIVE — decision Wednesday June 17, 19:00 BST
-**Summary:** Kevin Warsh chairs his first FOMC. Hold at 3.50–3.75% is 98.3% priced. The event is the dot plot and press conference — does the dot introduce hike language? Does Warsh abandon the easing bias? Rumour he may scrap the dot plot entirely. US CPI ~4.2% YoY. Futures price terminal ~3.8% end-2026, ~4% mid-2027. Key reflexes: 2yr UST, SOFR Dec 2026, gold.
-**Watch:** Dot plot shape; Warsh tone on hike-readiness; any dot-plot abolition signal; 2yr UST reaction.
+### ST-003 | Warsh Fed / FOMC June 17
+**Status:** ACTIVE — decision Wed 17 Jun, 19:00 BST
+**Summary:** Kevin Warsh chairs his first FOMC. Hold at 3.50-3.75% ~98-99% priced. Event = dot plot + tone; consensus is an explicit shift from easing bias to NEUTRAL. Hawkish risk: higher dots tighten conditions without a hike (hits 2y, SOFR, gold, long end). Dot-plot redesign/abolition still rumoured.
+**Watch:** Dot-plot shape; Warsh tone; 2y UST; gold; SOFR Dec-26.
 **First flagged:** 2026-06-14
 
 ---
 
-### ST-004 | Bank of England June 18 Decision
-**Status:** ACTIVE — Thursday June 18, 12:00 BST
-**Summary:** BoE expected to hold at 3.75%. April MPC vote was 8-1 (one dissenter for hike). UK CPI for May released Wednesday June 17 (07:00 BST) — key input; April was 2.8%, BoE forecasts 3.1% Q2 and 3.3% Q3. Iran deal could provide a significant disinflationary windfall, potentially keeping hawks in check. GBPUSD at 1.3430 has hawkish BoE partially priced.
-**Watch:** UK CPI Wed June 17; MPC vote split; Governor Bailey's statement; GBP/USD reaction.
+### ST-004 | Bank of England June 18
+**Status:** ACTIVE — Thu 18 Jun, 12:00 BST
+**Summary:** Hold at 3.75% expected. UK CPI (May) Wed 17 Jun 07:00 is the swing input (April 2.8%; BoE forecasts 3.1% Q2). Iran disinflation may keep hawks contained. GBPUSD ~1.34-1.35.
+**Watch:** UK CPI Wed; MPC vote split; Bailey statement; GBP reaction.
 **First flagged:** 2026-06-14
 
 ---
 
-### ST-005 | Gold at $4,224 — Defying the Risk-Off Rotation
+### ST-005 | Gold — Resilient Despite De-Risking
 **Status:** ACTIVE — monitoring
-**Summary:** Gold spot at $4,224/oz. Resilient despite Iran deal reducing geopolitical risk premium. Supported by: soft DXY (99.80); persistent EM/China central-bank buying; capped real rate expectations given soft growth. Warsh dot plot on Wednesday is the key near-term binary — a hike signal spikes real rates and triggers a sell-off from what is a net-long crowded position.
-**Watch:** Warsh dot plot (hike signal = sell); DXY direction; Iran deal finalization; EM central-bank buying.
+**Summary:** Gold ~$4,150-4,200, firm in Asia even as geopolitical bid faded — structural support (EM/central-bank buying, soft DXY, capped real rates). Wednesday's Fed dots are the near-term binary for a crowded long.
+**Watch:** Warsh dots (hawkish = sell); DXY; EM/CB buying.
 **First flagged:** 2026-06-14
 
 ---
 
-### ST-006 | Copper at Record Highs — Structural Deficit Story
+### ST-006 | Copper — Structural Deficit
 **Status:** ACTIVE — monitoring
-**Summary:** LME copper at $6.43/lb (~$14,175/t), recovering +2.7% Friday from 3-week lows. Goldman estimates 330,000t supply deficit in 2026. Demand driven by AI data-centre buildout, EV manufacturing, grid electrification. Iranian peace optimism improved EM growth/demand outlook on Friday. Cochilco raised 2026 copper forecast to ~$5.55/lb. Current spot well above that on supply-deficit premium. Mining stocks (COPX +3.38%, BHP +3.21%, Antofagasta +3.10%) benefiting.
-**Watch:** LME inventory levels; Chinese demand data; Chilean production; any supply disruptions.
+**Summary:** LME copper $6.43/lb (~$14,175/t), +2.7% Friday. Goldman flags ~330kt 2026 deficit (AI data-centres, EV, grid) while seeing prices ease from records. Deal-driven EM-growth optics an incremental tailwind. Late-Dec 2025 LME peak was ~$12,960/t.
+**Watch:** LME inventory; Chinese demand; Chilean supply.
 **First flagged:** 2026-06-14
 
 ---
 
-### ST-007 | Japan / Nikkei 66,000 — BoJ Hike Now Imminent
-**Status:** ACTIVE — BoJ decision Tuesday June 16
-**Summary:** Nikkei 225 closed at 66,078 (+2.90% Friday) near 2026 highs. BoJ rate hike to 1.0% is now the immediate event (97% probability, Tuesday decision). If hike lands without aggressive forward guidance, Nikkei likely holds with mild yen strength. Aggressive guidance = Nikkei correction and global carry trade unwind. USDJPY at 158.95; BoJ intervention risk at 160. Watch: USDJPY break below 155 post-hike would signal carry unwind in progress.
-**Watch:** BoJ decision and forward guidance Tuesday; USDJPY reaction; Nikkei vol; carry trade unwind signals.
-**First flagged:** 2026-06-14
-
----
-
-### ST-008 | BoJ June 15–16 Rate Hike — First 1.0% in 30 Years
-**Status:** ACTIVE — decision Tuesday June 16, ~03:00 BST
-**Summary:** Bank of Japan meeting June 15-16; decision expected very early Tuesday BST. 97% market probability for +25bps to 1.0% — highest since 1995. Backdrop: core CPI 2.8% fiscal 2026, growth revised to 0.5%. Global risk: JPY carry trade unwind. USDJPY at 158.95 already pricing much of the move. Tail risk: aggressive forward guidance triggers sharp JPY surge, draining global liquidity. EM assets most exposed in the unwind scenario.
-**Watch:** BoJ statement language; forward guidance tone; USDJPY reaction; Nikkei 225 open Tuesday; EMFX.
+### ST-007/008 | Japan / Nikkei / BoJ Hike to 1.0% (MERGED)
+**Status:** ACTIVE — BoJ decision Tue 16 Jun, ~04:00 BST
+**Summary:** BoJ hike to 1.00% from 0.75% (highest since 1995) ~94% priced. Nikkei +5.5% Monday on the deal (~69,700 from Fri 66,078). USDJPY at 160 — yen weak, sitting on the intervention threshold despite imminent hike, as risk-on revives carry. The hike is priced; GUIDANCE TONE is the catalyst. Aggressive forward guidance = JPY surge + global carry/liquidity unwind (EM most exposed).
+**Watch:** BoJ guidance tone; USDJPY 160 / intervention; Nikkei vol; EMFX; carry-unwind signals.
 **First flagged:** 2026-06-14
 
 ---
 
 ### ST-009 | SpaceX SPCX — Post-IPO Monitoring
-**Status:** ACTIVE — monitoring daily price action
-**Summary:** SpaceX listed June 12 on Nasdaq (ticker: SPCX) at $135/share. Raised $75bn — biggest IPO in history, eclipsing Saudi Aramco's $29.4bn record. Closed Day 1 at $161 (+19%), having hit $176.52 intraday. Now valued above $2tn. Operating at $4.2bn loss on $18.7bn revenue; market paying for Starlink broadband optionality and launch economics. S&P 500 inclusion requires profitability hurdle (not currently met). Stock re-opens Monday June 16. Capital absorption of $75bn may constrain marginal risk appetite.
-**Watch:** Day-two and week-one price action; S&P 500 inclusion pathway; Musk commentary; Starlink revenue updates.
+**Status:** ACTIVE — monitoring
+**Summary:** Listed 12 Jun on Nasdaq at $135; closed debut $161.11 (+19.3%), intraday high $176.52; market cap >$2tn — 6th-largest US public company; largest IPO ever ($75bn raised). Avg 12m target ~$164 (range $63-$227). S&P inclusion profitability hurdle not met. $75bn capital absorption may cap marginal risk appetite. Re-opens week two Monday.
+**Watch:** Week-two price action; S&P inclusion pathway; Starlink revenue; Musk commentary.
 **First flagged:** 2026-06-14
 
 ---
 
 ## Retired Stories
-*(none)*
+*(none yet — ST-001 will retire once the Friday signing executes and the deal holds through its first implementation steps)*
