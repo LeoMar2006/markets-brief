@@ -1,39 +1,45 @@
 # Story Tracker — Markets Brief
 
-Last updated: 2026-06-19 (06:30 BST)
+Last updated: 2026-06-22 (06:30 BST)
 
 ---
 
 ## Active Stories
 
+### ST-001 | US–Iran / Strait of Hormuz — REOPENED
+**Status:** ACTIVE — back to front of book
+**Summary:** Retired 19 Jun on the "deal executed" read; **reopened** after a weekend reversal. Geneva/Bürgenstock technical talks were **postponed Fri** (Vance pulled his trip, "logistical issues"); over the weekend Iran's **IRGC again declared the Strait of Hormuz closed**, citing a US "breach of the first clause" of the post-war MoU plus a fresh **Israel–Hezbollah fire exchange in southern Lebanon**. By Monday AM the two sides had **resumed high-level talks** ("first session concluded") and oil gave back its spike. Commercial vessels reportedly still transiting per CENTCOM. Net: a re-introduced but fast-decaying risk premium — a pure headline whipsaw tape.
+**Watch:** Whether resumed talks hold; physical transit data vs IRGC rhetoric; Israel–Lebanon flare; Brent $77–85 range; tanker insurance/force-majeure headlines.
+**First flagged:** 2026-06-14 (retired 19 Jun; reopened 22 Jun)
+
 ### ST-002 | ECB — June Hike Was the Last
 **Status:** ACTIVE
-**Summary:** ECB at 2.25% deposit. Deepening oil disinflation (Brent sub-$78) reinforces "June hike was the last." Bund 10y ~3.0%. German PPI (May) due 07:00 today.
-**Watch:** Oil-disinflation impulse; ECB comms; German PPI; Bund 10y.
+**Summary:** ECB at 2.25% deposit. The "June hike was the last" thesis leaned on oil disinflation (Brent sub-$78); the weekend oil bounce back toward $80 complicates that, though it is far from the $120 spike. Bund 10y ~3.0%. German PPI (May) printed Fri. Flash EZ/German PMIs Tue 23 Jun are the next test.
+**Watch:** Oil pass-through; EZ flash PMIs (Tue); ECB comms; Bund 10y.
 **First flagged:** 2026-06-14
 
 ### ST-003b | Hawkish-Hold Fed Regime (Warsh)
 **Status:** ACTIVE — central story
-**Summary:** 17 Jun FOMC = hawkish hold. Rates 3.50–3.75%. Dots median to ~3.8% for 2026 (a hike); 9/18 see ≥1 hike; Warsh declined his own dot. Statement gutted to ~130 words. Reaction since: DXY through 100 (~100.7, highest since May-25), UST 2y firmer to ~4.20%, 10y ~4.44%, gold hit. **Key tension:** hawkish dots rest on a Mideast oil impulse that Brent is now unwinding → dovish walk-back becomes live if oil keeps falling into softer US data. First post-FOMC Fedspeak delayed by Juneteenth holiday.
-**Watch:** First Fedspeak (commitment to tilt); 2y UST; gold/crypto; whether oil disinflation forces a dovish pivot; the announced Fed-ops reform task forces.
+**Summary:** 17 Jun FOMC = hawkish hold, 12–0. Rates 3.50–3.75%. Dots median flipped to a 2026 **hike**; 9/18 see ≥1 hike; Warsh declined his own dot. **2026 PCE forecast lifted to 3.6% (from 2.7%)**, easing-bias language dropped. CME Sept-hike odds spiked to ~67% intraday Thu. Reaction: DXY through 100 to ~100.8–101 (one-year high), 2y ~4.19–4.21%, 10y ~4.44%, gold/crypto hit. **Key tension:** the hawkish dots rest partly on an oil/inflation impulse; if the Iran premium fully deflates into softer data, a dovish walk-back becomes live. Fedspeak resumes post-blackout this week (Waller, Williams, Goolsbee, Barkin, Kashkari).
+**Watch:** First post-FOMC Fedspeak (does the tilt hold?); **May PCE Thu 25 Jun**; 2y UST; gold/crypto; oil's effect on the inflation narrative.
 **First flagged:** 2026-06-14 (as ST-003); recast 2026-06-18
 
 ### ST-005 | Gold — Crowded Long Under Pressure
 **Status:** ACTIVE — monitoring
-**Summary:** Off ~2% post-Fed to ~$4,275 (Aug fut); spot ~$4,246–4,252 ("Fed hangover"). Higher front-end yields + firm DXY the headwind; structural CB/EM bid the floor. Citi 0–3m $4,500. ATH $5,589 (28 Jan).
-**Watch:** Front-end repricing; DXY; CB/EM buying; long liquidation vs dip-buyers toward ~$4,200.
+**Summary:** ~$4,150 spot Fri, lowest since 11 Jun, **3rd consecutive weekly decline**. Caught between a hawkish-Fed/firm-DXY headwind and a structural CB/EM + geopolitical bid (weekend Iran scare). JPM still sees ~$6,000/oz avg Q4-26. ATH $5,589 (28 Jan).
+**Watch:** Front-end repricing; DXY; CB/EM buying; whether the Iran bid offsets real-yield pressure; dip-buyers toward $4,050–4,150.
 **First flagged:** 2026-06-14
 
 ### ST-006 | Copper — Structural Deficit
 **Status:** ACTIVE — monitoring
-**Summary:** COMEX ~$6.40/lb near record. TC/RCs ~$0 (smelters starved). GS ~640kt ex-US deficit; JPM ~330kt refined deficit 2026. **30 Jun US copper-tariff review** sustains US-vs-ex-US pre-positioning. Multi-year concentrate shortfall (AI data-centres, grid, EV).
+**Summary:** Near records. **Cochilco raised its 2026 forecast to $5.55/lb** (2027 $5.10) on firm demand/tight supply. TC/RCs ~$0. **30 Jun US copper-tariff review** sustains US-vs-ex-US pre-positioning. FCX whippy (52-wk high $72.09 on 2 Jun, then -12% in days). Multi-year concentrate shortfall (AI data-centres, grid, EV, re-industrialisation).
 **Watch:** 30 Jun tariff review; LME/COMEX spread; Chinese demand; Chilean supply; TC/RCs.
 **First flagged:** 2026-06-14
 
 ### ST-007/008 | Japan / Nikkei / BoJ — at 1.0%
 **Status:** ACTIVE — carry / intervention watch
-**Summary:** BoJ at 1.00% (highest since 1995; hiked 16 Jun, 7–1). Nikkei at record (~71k), AI/exporter-led. USD/JPY ~160.3 — on the MoF intervention line; carry alive. Asia decoupled from the hawkish Fed overnight (oil relief helping). Ueda health/return still unconfirmed in overnight sources.
-**Watch:** Ueda status; USD/JPY 160/intervention; hawkish follow-through; carry-unwind signals; whether Asia decoupling holds.
+**Summary:** BoJ at 1.00% (highest since 1995). Nikkei at record (futures ~71,700), AI/exporter-led. USD/JPY ~160 — on the MoF intervention line; carry alive. Asia held up / rose Monday on the Iran-talks resumption.
+**Watch:** USD/JPY 160/intervention; Ueda status; hawkish follow-through; carry-unwind signals.
 **First flagged:** 2026-06-14
 
 ### ST-009 | SpaceX SPCX — Post-IPO Monitoring
@@ -43,14 +49,13 @@ Last updated: 2026-06-19 (06:30 BST)
 **First flagged:** 2026-06-14
 
 ### ST-010 | Crypto Bear Market — Risk-Appetite Tell
-**Status:** ACTIVE — NEW
-**Summary:** BTC ~$64–66k, **~52% below the Oct-25 ATH (~$126,200)**; ETH ~$1,800. Drivers: ETF outflows, dollar strength (DXY >100), higher-for-longer rates, treasury-company selling (Strategy trimmed). A cleaner read of risk appetite than AI-led equity resilience suggests; correlates with the DXY/2y trade.
-**Watch:** BTC support (~$60–62k); ETF flows; DXY/2y; whether equities catch down.
+**Status:** ACTIVE — monitoring
+**Summary:** BTC ~$62–63k (Fri open $62,883, -2.4%), well below the Oct-25 ATH (~$126,200); ETH ~$1,700. Drivers: ETF outflows, DXY >100, higher-for-longer rates, treasury-company selling. A cleaner read of risk appetite than AI-led equity resilience; correlates with the DXY/2y trade.
+**Watch:** BTC ~$60–62k support; ETF flows; DXY/2y; whether equities catch down.
 **First flagged:** 2026-06-19
 
 ---
 
 ## Retired Stories
-- **ST-001 | US–Iran / Strait of Hormuz** — Geneva signing ceremony **19 Jun 2026**; Brent sub-$78 (~3½-mo low). Retiring on execution; residual reversibility risks (60-day framework not a treaty; ratification, physical/mine-clearance lag, Israel–Lebanon flare-up). Reopen if the ceremony fails or premium snaps back.
-- **ST-004 | Bank of England** — RESOLVED 18 Jun: held **3.75%**, vote **7–2** (Pill, Greene dissent for a 25bp hike to 4.00%). Hot May services CPI (3.7%) but gilts rallied / hike pricing trimmed on oil drop + softening labour market. Moved to monitoring.
+- **ST-004 | Bank of England** — RESOLVED 18 Jun: held **3.75%**, vote **7–2** (Pill, Greene dissent for a hike to 4.00%). Hot May services CPI (3.7%) but gilts rallied / hike pricing trimmed on oil drop + softening labour market.
 - **ST-003 (original) | Warsh FOMC June 17** — RESOLVED 17 Jun (hawkish hold). Recast as ST-003b.
