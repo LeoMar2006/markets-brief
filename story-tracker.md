@@ -1,68 +1,63 @@
 # Story Tracker — Markets Brief
 
-Last updated: 2026-06-25 (06:30 BST)
+Last updated: 2026-06-26 (06:15 BST)
 
 ---
 
 ## Active Stories
 
 ### ST-011 | AI Mega-Cap / Memory Complex — CENTRAL STORY
-**Status:** ACTIVE — the dominant market force
-**Summary:** The swing catalyst resolved **bullishly**. **Micron FQ3 (after US close 24 Jun) blew out:** EPS $25.11 (vs ~$20.3 est), revenue $41.46bn (vs ~$35.3bn), record 84.9% GM, data-centre rev >$25bn (>$100bn annualised). **Q4 guide: revenue $50bn ±$1bn, GM ~86%, EPS ~$31.** 17 Strategic Customer Agreements; HBM sold out through 2026 into early 2027; HBM4 ramping ~2x HBM3. → Asia ripped 25 Jun: KOSPI +~5%, Nikkei reclaimed 70k (~71,011), SK Hynix +~11% (₩2,843,000), Samsung +~5% (₩357,000), Kioxia +~13% (¥104,600). The 23 Jun bubble-scare (KOSPI −10%, twin circuit breakers) now reads as a positioning flush, not a fundamental top. Demand is no longer the question — valuation/positioning is.
-**Watch:** Does the re-gross hold through US open + PCE; Nasdaq breadth (megacap-only vs broadening); **2027** (not booked 2026) HBM pricing as the real swing factor; risk of a *second* positioning flush after re-crowding into strength.
-**First flagged:** 2026-06-23 (as ST-011); elevated to central 2026-06-24; catalyst resolved bullish 2026-06-25
+**Status:** ACTIVE — central; **bias REVERSED bullish→fragile 26 Jun**
+**Summary:** The bullish Micron resolution (24 Jun) has been overwhelmed by a **fundamental AI-monetisation scare**. Catalyst (overnight 25→26 Jun): **NYT/Bloomberg report OpenAI leaning to delay its IPO to 2027** — can't secure demand at Altman's insisted **$1tn valuation**, against a disclosed **$38.5bn FY net loss** on ~$34bn compute/R&D. Read-through: the flagship AI franchise can't be priced + is bleeding cash → discount the entire capex chain (memory/GPU/power/hyperscaler). **SoftBank −13%** (biggest OpenAI backer); **Kospi −8% (circuit breaker), SK Hynix ~−10%, Samsung −7%, Nikkei −5.1% <69,000**, broad Asia −3.2%. US fut S&P −0.8% / Nasdaq-100 −1.6%; Nasdaq down 4 straight. Preceded 25 Jun by **Apple −6.1%, MSFT −3.2%** on consumer hardware price hikes (iPhone/Xbox = AI-cost pass-through). Demand leg intact (Micron HBM sold out into 2027, ~85% GM, $50bn Q4 guide) — broken leg is **return-on-capex**.
+**Watch:** Megacap breadth; SK Hynix/Samsung as real-time barometer; any OpenAI funding/valuation backstop (would reverse fast); quarter-end (30 Jun) rebalancing as a possible mechanical head-fake bounce; whether capex-doubt spreads to hyperscaler guides.
+**First flagged:** 2026-06-23; central 2026-06-24; bullish 25 Jun; **reversed to fragile 2026-06-26**
 
 ### ST-003b | Hawkish-Hold Fed Regime (Warsh) vs Deflating Oil
 **Status:** ACTIVE — central macro story
-**Summary:** 17 Jun FOMC = hawkish hold, 12–0, rates 3.50–3.75%; dots flipped to a 2026 hike (9/18 ≥1 hike); 2026 core PCE dot 3.3%, headline 3.6%; easing bias dropped. Regime = strong USD (DXY ~101.7, ~15-mth high), pressured gold/crypto, firm front-end (2y ~4.18%, 10y eased to ~4.45% 2nd day). **Key tension:** hawkish dots rest partly on an oil impulse that has since collapsed (Brent low $70s) — dovish re-think becomes live if data softens.
-**Watch:** **May core PCE 25 Jun 13:30 BST (~+0.37% m/m / ~3.3% y/y; headline ~3.6%)** + income/spending, claims (~225k), durables; **Goolsbee 22:30 BST**, Williams on tape. Soft print = first crack for the dovish re-think (and the higher-pain surprise given positioning). Note PCE is May, backward-looking, pre-dating latest oil leg.
+**Summary:** 17 Jun FOMC = hawkish hold (3.50–3.75%, 12–0; dots flipped to a 2026 hike; easing bias dropped). **May PCE (released 25 Jun): core +0.3% m/m / 3.4% y/y (highest since Oct-23, IN-LINE); headline 4.1% y/y (highest since Apr-23).** Matched consensus → no acceleration shock; DXY slipped marginally (~101.4–101.65), yields eased (2y 4.16%, 10y 4.41%), **Sept hike odds ~63% (from 68%)**. The "soft-print dovish re-think" did NOT trigger (print matched, not soft). Oil keeps deflating (Brent $74) so dovish-rethink optionality alive forward, not yet catalysed. PCE is May, backward-looking, embeds fading Hormuz shock.
+**Watch:** Whether AI-driven tightening of financial conditions starts to question the hawkish dots; UMich inflation expectations (26 Jun); next jobs/CPI; Fed speakers leaning against FCI tightening.
 **First flagged:** 2026-06-14 (as ST-003); recast 2026-06-18
 
 ### ST-012 | UK Politics — Starmer Succession
 **Status:** ACTIVE
-**Summary:** PM Starmer resigned 22 Jun. **Timeline now concrete: nominations open 9 Jul, close by recess 16 Jul; new PM by 1 Sep at latest.** Andy Burnham clear frontrunner (won Makerfield by-election), seen by bond markets as more left-leaning / looser on fiscal rules → more issuance risk. Gilt 10y ~4.85% carries a political/fiscal premium. GBP soft (~1.31, level unverified).
-**Watch:** Leadership field; fiscal-rule signalling under a likely Burnham govt; gilt term premium; gilt-Bund spread (~185bp); GBP.
+**Summary:** PM Starmer resigned 22 Jun. Timeline: **noms open 9 Jul, close 16 Jul; new PM by 1 Sep**. **Burnham clear frontrunner** (won Makerfield by-election ~55%, +9,000 votes; Streeting won't stand). Bond market fears a left tack — **£40bn extra borrowing** (housing/infra) + mansion-tax talk → issuance/term-premium risk. Gilt 10y **4.71%** (eased from ~4.85% on global duty rally) still carries the political premium. GBP firmer **~1.34** — premium parked in gilts, not cable.
+**Watch:** Leadership field; fiscal-rule signalling under likely Burnham govt; gilt term premium; gilt-Bund spread (~175bp); GBP.
 **First flagged:** 2026-06-24
 
 ### ST-002 | ECB — June Hike Was the Last
-**Status:** ACTIVE
-**Summary:** ECB at 2.25% deposit. June flash PMIs (23 Jun): composite 49.5, services 48.9 (recovering), mfg 51.3. Oil at ~$73 supports the disinflation "done" leg. Bund 10y ~3.0%.
+**Status:** ACTIVE — quiet
+**Summary:** ECB at 2.25% deposit. June flash PMIs (23 Jun): composite 49.5, services 48.9, mfg 51.3. Brent ~$74 supports disinflation "done." **Bund 10y ~2.95%** (near lowest since mid-March).
 **Watch:** Services follow-through; oil pass-through; ECB comms; Bund 10y.
 **First flagged:** 2026-06-14
 
 ### ST-005 | Gold — Crowded Long Under Pressure
-**Status:** ACTIVE — thesis playing out
-**Summary:** **Broke below $4,000** (spot ~$4,016, intraday <$4k), lowest since Nov 2025, −3% Wed, **−11.7% over 4 weeks**. Strong DXY + firm real yields + risk-on overwhelming the structural CB/EM bid. Silver ~$64. JPM still ~$6,000/oz avg Q4-26.
-**Watch:** Dip-buyers' line near $4,000; PCE as the swing (soft print could mark the low); DXY/2y; whether a dovish oil-driven Fed re-think snaps the real-yield headwind.
+**Status:** ACTIVE — thesis intact; possible low forming
+**Summary:** Broke **below $4,000** (low ~$3,977, 24–25 Jun, −11.7% over 4wks) then **rebounded above $4,000** after in-line PCE removed the near-term faster-Fed tail + de-risking bid. $4k now the defended line. **Silver ~$58 the weak link (−5.4%), G/S ratio ~67** (widest since Iran-war peak). JPM still ~$6,000/oz avg Q4-26.
+**Watch:** Holds the $4,000 line?; DXY/real yields; whether a fresh hot-data leg snaps the defence.
 **First flagged:** 2026-06-14
 
 ### ST-006 | Copper — Structural Deficit
-**Status:** ACTIVE — monitoring
-**Summary:** COMEX ~$13.1–13.4k/t, consolidating near records. **Commerce Section 232 refined-copper update due 30 Jun**; phased duty floated (15% Jan-27 → 30% Jan-28). ~600kt 2026 deficit (AI data-centres, grid, EV, re-industrialisation).
+**Status:** ACTIVE — catalyst imminent
+**Summary:** COMEX **$6.02/lb (~$13.3k/t), +1.2%**, consolidating near records. **Commerce Section 232 refined-copper update due 30 Jun** (2 trading days out); phased duty floated (15% Jan-27 → 30% Jan-28). ~600kt 2026 deficit (AI data-centres, grid, EV).
 **Watch:** **30 Jun Section 232 update**; LME/COMEX spread; Chinese demand; Chilean supply.
 **First flagged:** 2026-06-14
 
 ### ST-007/008 | Japan / Nikkei / BoJ / Yen
 **Status:** ACTIVE — intervention watch ELEVATED
-**Summary:** BoJ at 1.00%. **USD/JPY ~161.5 — weakest since 1986** — verbal intervention ignored; FM Katayama reaffirmed coordinated-action readiness with Bessent. Nikkei back >70,000 (~71,011) on the memory rip. Carry alive but asymmetric; surprise intervention is a live overnight tail.
-**Watch:** USD/JPY 160s / MoF intervention (live tail); carry-unwind via an AI mega-cap flush; hawkish BoJ follow-through.
-**First flagged:** 2026-06-14
-
-### ST-009 | SpaceX SPCX — Post-IPO Monitoring
-**Status:** ACTIVE — STALE (refresh or downgrade next run)
-**Summary:** Listed 12 Jun at $135; debut close $161.11; ATH $225.64 (16 Jun). Mon 22 Jun −16%, bounced Tue to ~$164.64. No fresh print verified 25 Jun; memory-led risk-on should aid post-IPO digestion.
-**Watch:** Week-three action; S&P inclusion pathway; Starlink revenue; Musk commentary. **Downgrade if no fresh catalyst next run.**
+**Summary:** BoJ at 1.00%. **USD/JPY ~161.3 — multi-decade resistance**; verbal intervention ignored. Nikkei round-tripped **below 69,000** on the 26 Jun tech rout (gave back the Micron rip). Carry alive but asymmetric; a surprise MoF/BoJ move into a carry-sensitive tech selloff is the live overnight tail.
+**Watch:** USD/JPY 160s / MoF intervention (live tail); carry-unwind via the AI selloff; hawkish BoJ follow-through.
 **First flagged:** 2026-06-14
 
 ### ST-010 | Crypto — Risk-Appetite Tell
-**Status:** ACTIVE — monitoring
-**Summary:** **BTC ~$62.8k, ETH ~$1,675 — two-week lows**, NOT confirming the equity risk-on. Same strong-USD/hike-risk headwind as gold. Cleanest risk-appetite divergence on the board: equities (esp. AI) have not caught down to crypto.
-**Watch:** Whether equities catch down to crypto or crypto catches up to AI-led equity strength; ETF flows; DXY/2y.
+**Status:** ACTIVE — divergence resolved bearish
+**Summary:** **BTC ~$59,300 (sub-$60k, multi-year lows), ETH ~$1,560.** The asset supposedly losing capital TO AI equities is now selling off WITH them — equities catching down to crypto, not crypto catching up. ETF outflows, CLARITY-Act delay overhang.
+**Watch:** ETF flows; DXY/2y; whether sub-$60k BTC breaks structurally; risk-appetite read-through.
 **First flagged:** 2026-06-19
 
 ---
 
 ## Retired Stories
-- **ST-001 | US–Iran / Strait of Hormuz** — DE-ESCALATING → monitor-only 2026-06-25; folded into ST-003b oil read. Brent low $70s, license to 21 Aug. Formally retire next run if quiet. (21 Aug waiver expiry = fresh calendar risk.)
+- **ST-009 | SpaceX SPCX** — RETIRED 2026-06-26 (no fresh catalyst for a second run, as flagged). Re-open on S&P-inclusion news or a notable print. (Listed 12 Jun $135; ATH $225.64 16 Jun.)
+- **ST-001 | US–Iran / Strait of Hormuz** — RETIRED 2026-06-26; oil war-premium fully bled (Brent $74). Calendar note only: **21 Aug waiver expiry**.
 - **ST-004 | Bank of England** — RESOLVED 18 Jun: held 3.75%, vote 7–2 (Pill, Greene dissent for a hike).
 - **ST-003 (original) | Warsh FOMC June 17** — RESOLVED 17 Jun (hawkish hold). Recast as ST-003b.
