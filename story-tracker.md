@@ -1,74 +1,80 @@
 # Story Tracker — Markets Brief
 
-Last updated: 2026-07-07 (13:40 BST)
+Last updated: 2026-07-09 (pre-open BST)
 
 ---
 
 ## Active Stories
 
-### ST-011 | AI Mega-Cap / Semis Unwind — CENTRAL STORY
-**Status:** ACTIVE — central; **rotation, not reversal — now visibly two-way**
-**Summary:** Record H1 close (30 Jun); Q3 opened with a sharp AI/semis unwind (SOX −6.7% week ending 3 Jul after ~doubling in Q2). **7 Jul is the cleanest datapoint yet:** US rallied Mon 6 Jul on *revived* AI optimism (Dow first close >53,000 = 53,056; Nasdaq +1.12% to 26,121; S&P +0.72% to 7,537) — but Asia Tue 7 Jul **routed semis (Nikkei −2.04%; SUMCO −11.6%, Kioxia −11.3%)** despite Samsung's record 19x profit blowout (shares −6%+). Bloomberg: "Samsung results trigger rotation to less-loved sectors." Good news can't lift over-owned chips → positioning-driven. Concentration risk now demonstrably two-sided.
-**Watch:** **US bank earnings 14–15 Jul; hyperscaler capex guides (Q2 season)**; whether chips reclaim leadership or keep bleeding; AI-monetisation scares.
-**First flagged:** 2026-06-23; central 24 Jun; semis unwind 6 Jul; **Samsung sell-the-news 7 Jul**
+### ST-001 | US–Iran / Strait of Hormuz — RE-ESCALATED (now TOP STORY, inflationary/risk-off)
+**Status:** ACTIVE — **central; complete reversal of last week's de-escalation read**
+**Summary:** Ceasefire (17 Jun) is dead. Trump told the NATO/Turkey summit the truce is "over"; **US bombed Iran overnight (7–8 Jul), revoked Tehran's oil-sales licence**, threatened to reimpose the Hormuz naval blockade. Trigger: Iran's IRGC struck the Qatari LNG carrier *Al Rekayyat* and Saudi VLCC *Wedyan* near Hormuz (most serious maritime attacks since the ceasefire). Iran claims it targeted 85 US sites in Bahrain/Kuwait. **Brent +5.2% to $78.02 (8 Jul), now >$79; WTI ~$74.** STOXX 600 ~-2% (worst day since mid-March); energy +2%, airlines -5%+, autos -3.3%. Now an INFLATIONARY + risk-off driver (was disinflationary tailwind).
+**Watch:** Actual Hormuz closure (~20% seaborne crude = un-priced asymmetric tail → violent oil upside/European cyclical downside); Iran action on Gulf US bases; blockade follow-through; any renewed de-escalation (gaps everything back).
+**First flagged:** 2026-06-14; de-escalating 30 Jun; **RE-ESCALATED 8 Jul**
 
-### ST-003b | Hawkish-Hold Fed (Warsh)
-**Status:** ACTIVE — central macro; **catalyst imminent**
-**Summary:** Fed hawkish hold (3.50–3.75%, 2026 hike in median dots; Warsh declined own dot). June NFP (2 Jul) +57k vs ~115k cons; Apr/May revised −74k; UE 4.2% only on participation −0.3pp to 61.5% (2021 low). Kills near-term *hike* without forcing a *cut*. 2y ~4.13%, 10y ~4.49%, DXY ~100.9. **Sept FedWatch ~56% hike (from ~64%).**
-**Watch:** **FOMC minutes Wed 8 Jul ~19:00 BST (2:00pm ET) — first Warsh meeting = THE catalyst.** Split behind median dot; tone vs dovish repricing. Hawkish read → USD/JPY re-test 162, gold lower. Next CPI; wage data. SCOTUS Fed-independence overhang.
-**First flagged:** 2026-06-14 (as ST-003); recast 18 Jun; NFP soft 3 Jul
+### ST-003b | Hawkish-Hold Fed (Warsh) — CATALYST DELIVERED (hawkish)
+**Status:** ACTIVE — central macro
+**Summary:** **8 Jul FOMC minutes (first under Warsh) landed hawkish** — confirmed a "family fight"/split committee but "the Committee will deliver price stability", nine hawkish dots, several wanted an immediate hike. **10y ~4.567% (tagged 4.60%, highest since May); 2y ~4.189%. Sept-hike odds ~70% (from ~58%).** Higher-for-longer reaffirmed; caps the post-NFP rate-cut-hope dip-buy reflex. Energy shock magnifies the hawkish read.
+**Watch:** Jobless claims (9 Jul); next CPI/wages; Fed speaker clean-up vs ~70% Sept pricing; SCOTUS Fed-independence overhang.
+**First flagged:** 2026-06-14 (ST-003); recast 18 Jun; NFP soft 3 Jul; **minutes hawkish 8 Jul**
+
+### ST-005 | Gold — rates beat the war bid
+**Status:** ACTIVE — two-sided; broken structure
+**Summary:** **-2.3% to $4,063.86 (8 Jul)** DESPITE a live Iran conflict — hawkish minutes + higher real yields + firmer DXY overwhelmed the haven bid. Clean example of rates trumping geopolitics. Silver soft. Worst-month (June -12.7%) structure not repaired.
+**Watch:** Whether **$4,000** holds; any Hormuz-closure spike; real-yield path.
+**First flagged:** 2026-06-14; two-sided 3 Jul; rates-won 8 Jul
+
+### ST-007/008 | Japan / Nikkei / BoJ / Yen — INTERVENTION RISK ELEVATED (again)
+**Status:** ACTIVE — elevated
+**Summary:** BoJ 1.00%. **USD/JPY pressed back toward 162** on hawkish US rates + oil-driven terms-of-trade hit to Japan (energy importer). MoF "silent-treatment" ops risk elevated; ~¥11.7tn spent YTD; ~250bp carry gap intact. Nikkei firmer Thu on semis stabilisation.
+**Watch:** 162+ re-test → unsignalled intervention; carry unwind via oil/AI shock; verbal→actual ops.
+**First flagged:** 2026-06-14; elevated 6 Jul; re-elevated 8 Jul
 
 ### ST-002 | ECB — June Hike Was the Last
 **Status:** ACTIVE — done hiking
-**Summary:** ECB 2.25% deposit; finished. June flash HICP 2.8%, services 3.2%. **EUR/USD ~1.142** (gave back some of last week's USD-selloff gain), pure USD-rates story. Bund 10y ~2.90%. **German IP May +0.9% m/m (beat 7 Jul)**, durable orders +6.2% — Merz €500bn fiscal starting to bite.
-**Watch:** Services stickiness in July final HICP (17 Jul); EUR tied to US data.
+**Summary:** ECB 2.25% deposit; finished. **EUR/USD softer (~1.14 handle)** on the hawkish-Fed leg — pure USD-rates story. Bund 10y dragged up in sympathy with USTs + energy-inflation risk. Merz €500bn fiscal still supportive (German IP May +0.9%).
+**Watch:** Services stickiness in euro-area final HICP (17 Jul); EUR tied to US rates; energy pass-through to euro CPI.
 **First flagged:** 2026-06-14
 
 ### ST-006 | Copper — Structural Deficit / 232 Refined Duty
-**Status:** ACTIVE — **report window open since 30 Jun; STILL NO signed proclamation**
-**Summary:** COMEX ~$6.15/lb, holding gains; record inventories ~650kt. Commerce refined-copper report to President due 30 Jun; framework = phased universal refined duty 15% (Jan-27) → 30% (Jan-28). **No signed decision** as of 7 Jul — the disappointment air-pocket persists. Goldman >$14,000/t LME if duties proceed. 50% already on semis/derivatives.
-**Watch:** Any signed Presidential proclamation (violent upside snap); continued delay bleeds premium; COMEX–LME spread.
+**Status:** ACTIVE — report window open since 30 Jun; STILL NO signed proclamation
+**Summary:** COMEX ~$6.15/lb; record inventories ~650kt. Commerce refined-copper report framework = phased universal refined duty 15% (Jan-27) → 30% (Jan-28); no signed decision — disappointment air-pocket persists. Goldman >$14,000/t LME if duties proceed.
+**Watch:** Any signed Presidential proclamation (violent upside snap); COMEX–LME spread.
 **First flagged:** 2026-06-14
 
-### ST-005 | Gold — Broken Long Gets a Bid Back
-**Status:** ACTIVE — two-sided, consolidating
-**Summary:** −12.7% June (worst since Oct-2008). Post-NFP bounce snapped a 5-week losing streak; now **~$4,148, consolidating** (−0.4% Tue). Silver ~$61.5 (−1.4%). One good week doesn't repair a broken structure.
-**Watch:** **FOMC minutes 8 Jul = swing factor** — hawkish → risk toward $3,950; more labour softening → upside. Whether $4,100 holds.
-**First flagged:** 2026-06-14; two-sided 3 Jul
-
-### ST-007/008 | Japan / Nikkei / BoJ / Yen — INTERVENTION RISK ELEVATED
-**Status:** ACTIVE — elevated; "silent-treatment" ops risk
-**Summary:** BoJ 1.00%. USD/JPY hit 162.83 (40-yr low, 1 Jul); soft NFP dipped it sub-161 Fri, but **back near 161.8–162 (Mon–Tue) — right at the MoF trigger zone.** Katayama repeats "appropriate action at any time" but Tokyo has gone quiet — reportedly to stop pre-signalling and catch shorts offside. ~¥11.7tn spent YTD; ~250bp gap keeps carry alive. Nikkei −2.04% Tue on semis.
-**Watch:** Hawkish FOMC minutes re-tests 162+; verbal→actual intervention (now unsignalled); carry-unwind via AI selloff.
-**First flagged:** 2026-06-14; eased 3 Jul; elevated 6 Jul
-
-### ST-001 | US–Iran / Strait of Hormuz — DE-ESCALATING (disinflationary)
-**Status:** ACTIVE — cooling; supply story dominant
-**Summary:** Flare-up cooled; indirect US-Iran talks progressing. **Brent ~$72, WTI ~$69** (firm, capped by descending trendline) as Hormuz shipping normalises. OPEC+ added modest ~188kb/d. Disinflationary tailwind reinforces soft-labour narrative. Hormuz re-closure = un-priced asymmetric tail.
-**Watch:** Talks outcome; escalation/re-closure headlines; 21 Aug waiver expiry.
-**First flagged:** 2026-06-14; re-opened 29 Jun; de-escalating 30 Jun
+### ST-010 | Crypto — Risk-Appetite Tell (risk-off confirmed)
+**Status:** ACTIVE
+**Summary:** **BTC ~$62,084; ETH ~$1,742**, both LOWER post-US strikes. Behaving as rate/risk beta, not a haven — a clean risk-off tell alongside equities.
+**Watch:** Whether BTC holds $60k; ETF flows; DXY/2y.
+**First flagged:** 2026-06-19; risk-off confirm 8 Jul
 
 ### ST-012 | UK Politics — Starmer Succession
-**Status:** ACTIVE — orderly; **nominations open imminently**
-**Summary:** PM Starmer resigned 22 Jun. **Noms open 9 Jul, close 16 Jul; leader by ~29 Aug (or 17 Jul if unopposed).** Burnham sole declared candidate, 200+ MP backers; Streeting stood aside and endorsed. If unopposed → leader 17 Jul. Gilt 10y ~4.68%, GBP ~1.335 — transition in stride. Deferred fiscal question = later term-premium risk.
+**Status:** ACTIVE — orderly; **nominations open TODAY (9 Jul)**
+**Summary:** PM Starmer resigned 22 Jun. **Noms open 9 Jul, close 16 Jul; unopposed → leader 17 Jul, else ~29 Aug.** Burnham frontrunner (200+ MP backers); Streeting stood aside/endorsed. Gilts/GBP taking transition in stride. Deferred fiscal question = later term-premium risk.
 **Watch:** Any challenger by 16 Jul; Burnham fiscal signalling; gilt term premium.
 **First flagged:** 2026-06-24
 
-### ST-010 | Crypto — Risk-Appetite Tell
-**Status:** ACTIVE — partial confirmation
-**Summary:** **BTC ~$63k (held the $60k reclaim); ETH ~$1,780** on soft-NFP rate-cut hope. Strongest monthly gains since May. Reads as rate-cut *beta*, not yet a clean breadth confirmation of the equity tape.
-**Watch:** Whether BTC *holds* $60k+; ETF flows; DXY/2y.
-**First flagged:** 2026-06-19; partial confirm 3 Jul
-
 ### ST-013 | Tariff-Legal Overhang
 **Status:** ACTIVE — building for late July
-**Summary:** Section 122 10% surcharge **expires by operation of law 12:01am ET 24 Jul** (150-day statutory cap). CIT ruled it unlawful (7 May); Federal Circuit stayed pending appeal (11 Jun) — CBP still collecting. **Watch replacement vehicle: reports of a Section 301-based ~12.5% surcharge on ~46 countries being prepped.** Term-premium/trade-policy tail into deadline.
+**Summary:** Section 122 10% surcharge **expires by operation of law 24 Jul** (150-day statutory cap). CIT ruled it unlawful (7 May); Fed Circuit stayed pending appeal (11 Jun) — CBP still collecting. Watch Section 301-based ~12.5% surcharge on ~46 countries as replacement vehicle.
 **Watch:** 24 Jul expiry; Section 301 replacement; appeal rulings.
 **First flagged:** 2026-07-02
+
+### ST-011 | AI Mega-Cap / Semis Unwind
+**Status:** ACTIVE — two-way; **pause, not reversal**
+**Summary:** Early-July semis unwind (SOX -6.7% wk to 3 Jul) has paused — **Nasdaq +0.2% (8 Jul); Asian chips stabilised Thu 9 Jul.** Samsung sell-the-news (7 Jul) showed good news can't lift over-owned chips. Leadership still contested. European reads: ASML, ASM, Besi, SAP.
+**Watch:** US bank earnings 14–15 Jul; hyperscaler Q2 capex guides; whether chips reclaim leadership.
+**First flagged:** 2026-06-23; central 24 Jun; pause 8–9 Jul
+
+### ST-014 | easyJet / Castlelake M&A — NEW
+**Status:** ACTIVE — advanced, board minded to recommend
+**Summary:** Board "minded to recommend" Castlelake's 5th/highest bid: **690p cash (~£5.2–5.5bn, ~75% premium)**, partial unlisted-share alternative. **PUSU deadline extended to 3 Aug.** Minneapolis private-credit buyer; partnered with ex-easyJet exec Peter Bellew.
+**Watch:** Binding offer by 3 Aug; **EU/UK airline foreign-ownership approval = key deal risk**; any counter-bid.
+**First flagged:** 2026-07-09
 
 ---
 
 ## Retired / Dormant Stories
-- **ST-009 | SpaceX SPCX** — DORMANT (retired 26 Jun). No fresh catalyst.
+- **ST-009 | SpaceX SPCX** — DORMANT (retired 26 Jun).
 - **ST-004 | Bank of England** — RESOLVED 18 Jun: held 3.75%, 7–2 (Pill, Greene dissent for hike).
 - **ST-003 (original) | Warsh FOMC June 17** — RESOLVED 17 Jun (hawkish hold). Recast as ST-003b.
